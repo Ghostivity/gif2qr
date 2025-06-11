@@ -12,3 +12,7 @@ Instruction:
 
 ![image](https://github.com/user-attachments/assets/5b13e61d-c4c4-4c2f-9a8e-33001b2703ee)      ![gif](https://github.com/user-attachments/assets/2a53c922-3f63-455f-837d-1c71af1b0503)      ![gifname](https://github.com/user-attachments/assets/407b1d2b-b5e9-458e-84e1-1230dfef8c24)
 
+
+
+This project uses the 'segno' library (MIT License).  
+See https://github.com/heuer/segno for more information.
